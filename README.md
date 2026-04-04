@@ -60,7 +60,7 @@ POST /predict
 
 ```json
 {
-  "text": "Xin chào, bạn khỏe không?"
+  "text": "Thế giới, hãy tốt bụng với cô ấy."
 }
 ```
 
@@ -68,12 +68,12 @@ POST /predict
 
 ```json
 {
-  "input": "Xin chào, bạn khỏe không?",
-  "translation": "Hello, how are you?"
+  "input": "Thế giới, hãy tốt bụng với cô ấy.",
+  "translation": "The world, be kind to her."
 }
 ```
 
 
 ## 7. Video demo
 
-* Link: <your-demo-video-link>
+* Link: https://drive.google.com/file/d/1ut0i4PloCtPoNdLEEhsmU9f73m0W26ml/view?usp=drive_link
